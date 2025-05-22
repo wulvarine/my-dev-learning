@@ -1,2 +1,2 @@
 # my-dev-learning
-Practice repo for learning Git and GitHub
+This is my first commit in VS Code!
