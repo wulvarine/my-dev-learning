@@ -1,1 +1,2 @@
 Git is great
+Day 3: Practicing branches and pull requests.
